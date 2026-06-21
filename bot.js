@@ -20,7 +20,7 @@ const client = new Client({
 });
 
 // =================== الإعدادات ===================
-const TOKEN            = 'MTUxNjI3MTM3Mjg0ODg1NzE2OA.GiIpz-.PYUdSNV1AOHaTPQubIDwwR9TupKjbbqbDdT4Vk';
+const TOKEN            = 'MTUxNjI3MTM3Mjg0ODg1NzE2OA.G2DOUH.wEAp_siTFDvnnXeOvEXqg33hbNvAQi0KKtDB0Y';
 const VOICE_CHANNEL_ID = '1516181488020750406';
 const IMAGE_URL        = 'https://media.discordapp.net/attachments/1514645648010379376/1516078712553209957/worldcup_panel.png?ex=6a31fe94&is=6a30ad14&hm=2b1e5abff1618823004c5a7f4a56165260a7a5abc17ee111c5544472c45a573f&=&format=webp&quality=lossless';
 
